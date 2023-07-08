@@ -18,7 +18,7 @@ class Test{
 		
 	}
 	
-	// Static method with int return
+	// non Static method with int return
 	
 		int multiply(int i,int j){
 			int k =i*j;
@@ -26,6 +26,18 @@ class Test{
 	
 		}
 	
+	// Void method with static
+		
+	static void gender() {
+			System.out.println("gender");
 	
+		}
+		//non static void method 
+	 void age() {
+		System.out.println("age");
+
+	}
+		
+		
 }
 
