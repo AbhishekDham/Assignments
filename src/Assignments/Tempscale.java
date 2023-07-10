@@ -9,7 +9,15 @@ public class Tempscale {
 		System.out.println(c + " Celsius " + " = " + f + " Fahrenheit ");
 		System.out.println(c + " Celsius " + " = " + k + " Kelvin ");
 		
+		int j = 10 * 4 + 2;
+
+		int kk = 10 + 4 * 2;
+
+		int m = 10 + 4 * 2 % 2;
+
+		int g = 10 / 5 * 6 / 2;
 		
+		System.out.println(j + " " + kk + " " + m + " " + g);
 		
 	}
 	

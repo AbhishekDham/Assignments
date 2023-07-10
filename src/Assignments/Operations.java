@@ -24,11 +24,11 @@ while (true) {
 			System.out.println("Maximum number is " + input1);
 			
 		}
-		if(input2>input1) {
-			System.out.println("Maximum number is " + input2);
-			
-			
+		else {
+			System.out.println("Maximum number is " + input2);	
 		}
+		
+
 		
 }
 	
