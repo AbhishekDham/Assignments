@@ -13,7 +13,8 @@ public class ReverseString {
 			
 			ch = str.charAt(i);
 			nstr = ch+nstr;
-			
+			int Name = str.length();
+			System.out.println(Name);
 			
 		}
 		
